@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ 
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}"> 
+    
+ 
+    <title> {%block title %} blog Home{% endblock %}</title>
+  </head>
+  <body>
+    <!-- Responsive navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#!">Jezz<span class= "h1-color">B</span>log</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="#top">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/blog">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/create">Create</a></li>
+                    
+              
+
+                    <li class="nav-item"><a class="nav-link" href="/logout">Logout</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/me">About</a></li>
+                    <li class="nav-item"><a class="nav-link active" aria-current="page" id= "nav-item2"href="/contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Page header with logo and tagline-->
+    <header class="py-5 bg-light border-bottom mb-4">
+        <div class="container">
+            <div class="text-center my-5">
+                <h1 class="fw-bolder">Welcome to Jezz<span class= "h1-color">B</span>log</h1>
+                <p class="lead mb-0">Home of quality information, latest tech news, fashion and definitely gossips.</p>
+             
+            </div>
+        </div>
+    </header>
+    <!-- Page content-->
+    <div class="container">
+        <div class="row">
+            <!-- Blog entries-->
+            <div class="col-lg-8">
+                <!-- Featured blog post dummy blog post-->
+                <div class="card mb-4">
+                    <a href="#!"><img class="card-img-top" src ="{{ url_for('static', filename='img/person_1.jpg') }}" alt='bg-image' /></a>
+                    <div class="card-body">
+                        <div class="small text-muted">February 1, 2021</div>
+                        <h2 class="card-title">CATEGORY:Entertainment Gossip</h2>
+                        <p class="card-text text">Adams morgan to marry Jim tim!
+                            <span class='dots' >....</span>
+                            <span class='moreText'>Reported by saharaDDN on 25th December the two fatale couple are said to tie the knot at a priestly blessing in the nothern luxem of the united state of no where</span>
+                        </p>
+                        <button  class='btn btn-primary read-more-btn'>Read more</button>
+                    </div>
+                </div>
+                <!-- Nested row for non-featured blog posts-->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <!-- Blog post-->
+                        <div class="card mb-4 ">
+                            <img class="card-img-top" src ="{{ url_for('static', filename='img/post-sq-4.jpg') }}" alt='bg-image' />
+                            <div class="card-body">
+                                <div class="small text-muted">January 5, 2022</div>
+                                <h2 class="card-title h4">CATEGORY: TECHNOLOGY</h2>
+                                <p class="card-text text">Pyscript language for the web
+                                    <span class='dots' >....</span>
+                            <span class='moreText'>Pyscript introduced this year will serve as an alternative to javascript language</span>
+                                </p>
+                                <button  class='btn btn-primary  read-more-btn'>Read more</button>
+                            </div>
+                        </div>
+                        <!-- Blog post-->
+                        <div class="card mb-4">
+                            <img class="card-img-top" src ="{{ url_for('static', filename='img/post-sq-7.jpg') }}" alt='bg-image' />
+                            <div class="card-body">
+                                <div class="small text-muted">January 1, 2022</div>
+                                <h2 class="card-title h4">CATEGORY: FASHION </h2>
+                                <p class="card-text text">Latest Asoebi styles in Vogue 2022 magazine release <span class='dots' >....</span>
+                                    <span class='moretText'>more styles bella-weeding.com get your next ankara inspiration for your owanbe</span></p>
+                                <button  class='btn btn-primary read-more-btn'>Read more</button>
+                            </div>
+                        </div>
+                    
+                    <div class="col-lg-12">
+                        <!-- Blog post-->
+                        <div class="card mb-4">
+                            <img class="card-img-top" src ="{{ url_for('static', filename='img/image_10.jpg') }}" alt='bg-image' />
+                            <div class="card-body">
+                                <div class="small text-muted">January 25, 2022</div>
+                                <h2 class="card-title h4">CATEGORY: LIFEHACKS</h2>
+                                <p class="card- text text">Want to know about life hacks that makes your life easier we are herefor you.
+                                    <span class='dots' >....</span>
+                                    <span class='moreText'>learn about life hacks that will make ypur life. try the 3 rules of diy just as knitting when you are bored,go out for stroll,eat lunch with friends and family</span>
+                                </p>
+                                <button  class='btn btn-primary read-more-btn'>Read more</button>
+                            </div>
+                        </div>
+                        <!-- Blog post-->
+                        <div class="card mb-4"><img class="card-img-top" src ="{{ url_for('static', filename='img/post-portrait-7.jpg') }}" alt='bg-image' />
+                           
+                            <div class="card-body">
+                                <div class="small text-muted">January 1, 2022</div>
+                                <h2 class="card-title h4">CATEGORY: BUSINESS</h2>
+                                
+                                <p class="card-text text">Naira drops significantly as dollar rises
+                                    significant as naira goeas down in history as the currency thst fell most in the last 24 hours
+                                    Naira drops significantly as dollar rises
+                                    significant as naira goeas down in history as the currency thst fell most in the last 24 hours
+                                    Naira drops significantly as dollar rises<span class='dots' >....</span>
+                                    <span class='moreText'>
+                                    significant as naira goeas down in history as the currency thst fell most in the last 24 hours
+                                    Naira drops significantly as dollar rises
+                                    significant as naira goeas down in history as the currency thst fell most in the last 24 hours
+                                    Naira drops significantly as dollar rises
+                                    significant as naira goeas down in history as the currency thst fell most in the last 24 hours</span>
+                                </p>
+                                <button  class='btn btn-primary read-more-btn'>Read more</button>
+                            
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Pagination-->
+                <nav aria-label="Pagination">
+                    <hr class="my-0" />
+                    <ul class="pagination justify-content-center my-4">
+                        <li class="page-item disabled"><a class="page-link" href="#" tabindex="-1" aria-disabled="true">Newer</a></li>
+                        <li class="page-item active" aria-current="page">
+                        <li class="page-item"><a class="page-link" href="#top">Older</a></li>
+                    </ul>
+                </nav>
+            </div>
+           
+                <!-- Side widget-->
+                <div class="card mb-4">
+                    <div class="card-header"><h3>Contribute</h3></div>
+                    <div class="card-body"><p>Would you like to contribute or share your thought with us then you can click on the create button to <a class="login-link" href="/create">Create →</a> new post.
+                   </p>
+                   </div>
+                    
+                </div>
+                
+            </div>
+           
+       
+        </div>
+
+    </div>
+    <!-- Footer-->
+    <footer class="py-5 bg-dark">
+        <div class="container"><p class="m-0 text-center text-white">Copyright &copy; JezzBlog 2022</p></div>
+    </footer>
+    <!-- Bootstrap core JS-->
+    <script src="https://cd
+</body>n.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="{{ url_for('static', filename='index.js') }}"> </script>
+</html>
