@@ -39,7 +39,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Jessica-ovabor/JezzyBlog">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+
   </a>
 
 <h3 align="center">JezzyBlog</h3>
@@ -80,6 +80,7 @@
     <li><a href="#lesson-learnt">Lesson learnt</a></li>
     <li><a href="#deliverables">Deliverables</a></li>
     <li><a href="#useful-resources">Useful resources</a></li>
+    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -91,7 +92,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-JezzyBlogis is a blog website built using HTML,CSS.Bootstrap,Python,SQLite,Javascript,Free frontend templates and Flask framework on visual studio code that allows you to share and experience your thought and others people using the blog. It allows users to read other user post, create post, edit post and also delete post.
+JezzyBlog is a blog website built using HTML,CSS.Bootstrap,Python,SQLite,Javascript,Free frontend templates and Flask framework on visual studio code that allows you to share and experience your thought and others people using the blog. It allows users to read other user post, create post, edit post and also delete post.
 
 It provides a static home page to new user to give them a glispse of what is to be expected after signing up or registering.
 
@@ -103,22 +104,22 @@ It also provides a contact section to help for user improved features or any oth
 
 JezzyBlog is an exam project built by [Jessica-ovabor](github.com/Jessica-ovabor)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
-* ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-* ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-* ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-* ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
-* ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-* ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+ ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
@@ -129,10 +130,21 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## The challenge
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+ <p>User should be able to:</p>
+ 
+ * Add a post
+ * View each post
+ * Edit a post
+ * Delete a post
+ * Login as a user and logout
+ * Responsive screen
+ * Contact us
+ * Home pages for signed in and non signed user
+ 
+ 
+ 
 
-### Prerequisites
+### Samples
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -140,46 +152,40 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Lesson learnt
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+* Database manipulation
+* Authentication and Authorisation
+* Debbuging
+* Flash messaging
+* Routing
+* Business Logic
+* Integration of free templates from [themewagon.com](www.themewagon.com)
+* CRUD operation
+ 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Deliverables
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+* Blog site used to create,read,edit and delete a post
+* Functional website
+* Allows user to sign in and signout
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Useful resources
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [themewagon.com](www.themewagon.com)
+- [fullstackpython](www.fullstackpython.com)
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +212,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See Licence `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -215,9 +221,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@facebook_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Jessica Ovabor - [@facebook_handle](https://facebook.com/jessica-ovabor) - [email](ovaborjessica85@gmail.com)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Jessica-ovabor/JezzyBlog](https://github.com/Jessica-ovabor/JezzyBlog)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -226,9 +232,11 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Altschool Africa](www.altschoolafrica.com)
+* [Caleb Emelike](twitter.com/caleb-emelike)
+* [README Template](https://github.com/othneildrew/Best-README-Template)
+* [Stack Overflow](www.stackoverflow.com)
+* [Codecademy](www.codecademy/flashmessages)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
