@@ -95,7 +95,7 @@ JezzyBlog is an exam project built by [Jessica-ovabor](github.com/Jessica-ovabor
 
 
 
-<!-- GETTING STARTED -->
+<!-- The challenge -->
 ## The challenge
 
  <p>User should be able to:</p>
@@ -113,7 +113,13 @@ JezzyBlog is an exam project built by [Jessica-ovabor](github.com/Jessica-ovabor
  
 
 ### Samples
-![Screenshot (8)](https://user-images.githubusercontent.com/74324460/200284262-993f5acc-cf92-4803-b5ce-80a964fe314b.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/74324460/200291515-e40494bd-092e-4bd7-a160-fb1ee710b5ae.png)
+
+![Screenshot (15)](https://user-images.githubusercontent.com/74324460/200291050-bfe7a8c2-a3e2-4632-8d53-7ac0f7671c5a.png)
+
+
+
+
 
 ### Lesson learnt
 
@@ -132,7 +138,7 @@ JezzyBlog is an exam project built by [Jessica-ovabor](github.com/Jessica-ovabor
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- Deliverables -->
 ## Deliverables
 
 * Blog site used to create,read,edit and delete a post
@@ -143,7 +149,7 @@ JezzyBlog is an exam project built by [Jessica-ovabor](github.com/Jessica-ovabor
 
 
 
-<!-- ROADMAP -->
+<!-- Usefulresources -->
 ## Useful resources
 
 - [themewagon.com](www.themewagon.com)
@@ -175,7 +181,10 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See Licence `LICENSE.txt` for more information.
+Distributed under the MIT License. See Licence 
+![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
+for more information.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -186,7 +195,7 @@ Distributed under the MIT License. See Licence `LICENSE.txt` for more informatio
 
 Jessica Ovabor - [@facebook_handle](https://facebook.com/jessica-ovabor) - [email](ovaborjessica85@gmail.com)
 
-Project Link: [https://github.com/Jessica-ovabor/JezzyBlog](https://github.com/Jessica-ovabor/JezzyBlog)
+Project Link: [JezzyBlog](https://github.com/Jessica-ovabor/JezzyBlog)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,10 +208,17 @@ Project Link: [https://github.com/Jessica-ovabor/JezzyBlog](https://github.com/J
 * [Caleb Emelike](twitter.com/caleb-emelike)
 * [README Template](https://github.com/othneildrew/Best-README-Template)
 * [Stack Overflow](www.stackoverflow.com)
+* [themewagon](www.themewagon.com)
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
+
+
  
+Thanks for reading! much love from JezzyBlog :blue_heart:
