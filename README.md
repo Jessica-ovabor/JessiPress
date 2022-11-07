@@ -13,7 +13,7 @@
 <h3 align="center">JezzyBlog</h3>
 
   <p align="center">
-    project_description
+         project_description
     <br />
     <a href="https://github.com/Jessica-ovabor/JezzyBlog"><strong>Explore the docs »</strong></a>
     <br />
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-JezzyBlog is a blog website built using HTML,CSS.Bootstrap,Python,SQLite,Javascript,Free frontend templates and Flask framework on visual studio code that allows you to share and experience your thought and others people using the blog. It allows users to read other user post, create post, edit post and also delete post.
+JezzyBlog is a blog website built using HTML,CSS.Bootstrap,Python,SQLite,Javascript,Free frontend templates and Flask framework on visual studio code that allows you to share your thought and experience other people view about a particilar topic using the blog. It allows users to read other user post, create post, edit post and also delete post.
 
 It provides a static home page to new user to give them a glispse of what is to be expected after signing up or registering.
 
@@ -113,7 +113,7 @@ JezzyBlog is an exam project built by [Jessica-ovabor](github.com/Jessica-ovabor
  
 
 ### Samples
-![homepage](Pictures\Screenshots\Screenshot (8).png)
+![Screenshot (8)](https://user-images.githubusercontent.com/74324460/200284262-993f5acc-cf92-4803-b5ce-80a964fe314b.png)
 
 ### Lesson learnt
 
