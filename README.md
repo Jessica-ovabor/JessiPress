@@ -6,23 +6,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Jessica-ovabor/JezzyBlog">
+  <a href="https://github.com/Jessica-ovabor/Jessium">
 
   </a>
 
-<h3 align="center">JezzyBlog</h3>
+<h3 align="center">Jessium</h3>
 
   <p align="center">
          project_description
     <br />
-    <a href="https://github.com/Jessica-ovabor/JezzyBlog"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Jessica-ovabor/Jessium"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Jessica-ovabor/JezzyBlog">View Demo</a>
+    <a href="https://github.com/Jessica-ovabor/Jessium">View Demo</a>
     ·
-    <a href="https://github.com/Jessica-ovabor/JezzyBlog/issues">Report Bug</a>
+    <a href="https://github.com/Jessica-ovabor/Jessium/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Jessica-ovabor/JezzyBlog/issues">Request Feature</a>
+    <a href="https://github.com/Jessica-ovabor/Jessium/issues">Request Feature</a>
   </p>
 </div>
 
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-JezzyBlog is a blog website built using HTML,CSS.Bootstrap,Python,SQLite,Javascript,Free frontend templates and Flask framework on visual studio code that allows you to share your thought and experience other people view about a particilar topic using the blog. It allows users to read other user post, create post, edit post and also delete post.
+Jessium is a blog website built using HTML,CSS.Bootstrap,Python,SQLite,Javascript,Free frontend templates and Flask framework on visual studio code that allows you to share your thought and experience other people view about a particilar topic using the blog. It allows users to read other user post, create post, edit post and also delete post.
 
 It provides a static home page to new user to give them a glispse of what is to be expected after signing up or registering.
 
