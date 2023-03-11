@@ -1,4 +1,4 @@
-# JezzyBlog
+# Jessium
  
 
 
@@ -221,4 +221,4 @@ Project Link: [JezzyBlog](https://github.com/Jessica-ovabor/JezzyBlog)
 
 
  
-Thanks for reading! much love from JezzyBlog :blue_heart:
+Thanks for reading! much love from Jessium :blue_heart:
