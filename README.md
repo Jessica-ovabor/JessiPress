@@ -60,17 +60,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Jessium is a blog website built using HTML,CSS.Bootstrap,Python,SQLite,Javascript,Free frontend templates and Flask framework on visual studio code that allows you to share your thought and experience other people view about a particilar topic using the blog. It allows users to read other user post, create post, edit post and also delete post.
+Jessium is a website that allows users to share their thoughts and experiences on a particular topic through blog posts. The website is built using HTML, CSS, Bootstrap, Python, SQLite, JavaScript, Free frontend templates, and the Flask framework on Visual Studio Code.
 
-It provides a static home page to new user to give them a glispse of what is to be expected after signing up or registering.
+Users can read other users' posts, create their own posts, edit their own posts, and delete their own posts. The website provides a static home page to new users to give them a glimpse of what to expect after signing up or registering.
 
-Authentication is alllowed to read other users post, create, edit or delete but authentication is not allowed to view the static pages before signing up.
+Authentication is required to read other users' posts, create, edit, or delete posts, but authentication is not allowed to view the static pages before signing up. Users can also logout after creating or reading a post.
 
-This site also allows you to logout after creating a post or reading a post 
+The website also provides a contact section for users to request improved features or report any issues encountered while using the site.
 
-It also provides a contact section to help for user improved features or any other issues encountered while using the site
-
-JezzyBlog is an exam project built by [Jessica-ovabor](github.com/Jessica-ovabor)
+Jessium is an exam project built by [Jessica-ovabor](github.com/Jessica-ovabor)
 
 
 
@@ -141,7 +139,7 @@ JezzyBlog is an exam project built by [Jessica-ovabor](github.com/Jessica-ovabor
 <!-- Deliverables -->
 ## Deliverables
 
-* Blog site used to create,read,edit and delete a post
+* Blog site used to create, read, edit and delete a post
 * Functional website
 * Allows user to sign in and signout
 
@@ -195,7 +193,7 @@ for more information.
 
 Jessica Ovabor - [@facebook_handle](https://facebook.com/jessica-ovabor) - [email](ovaborjessica85@gmail.com)
 
-Project Link: [JezzyBlog](https://github.com/Jessica-ovabor/JezzyBlog)
+Project Link: [jessium](https://github.com/Jessica-ovabor/Jessiumg)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
