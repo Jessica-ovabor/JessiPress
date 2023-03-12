@@ -1,4 +1,4 @@
-# Jessium
+# Jessium Press
  
 
 
@@ -191,9 +191,9 @@ for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jessica Ovabor - [@facebook_handle](https://facebook.com/jessica-ovabor) - [email](ovaborjessica85@gmail.com)
+Jessica Ovabor - [LinkedIn](https://www.linkedin.com/in/jovabor/)
 
-Project Link: [jessium](https://github.com/Jessica-ovabor/Jessiumg)
+Project Link: [jessium](https://github.com/Jessica-ovabor/Jessium)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
