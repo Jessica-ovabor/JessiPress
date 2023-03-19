@@ -1,4 +1,4 @@
-# Jessium Press
+# JessiPress
  
 
 
@@ -6,7 +6,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Jessica-ovabor/Jessium">
+  <a href="https://github.com/Jessica-ovabor/JessiPress">
 
   </a>
 
@@ -15,14 +15,14 @@
   <p align="center">
          project_description
     <br />
-    <a href="https://github.com/Jessica-ovabor/Jessium"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Jessica-ovabor/JessiPress"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Jessica-ovabor/Jessium">View Demo</a>
+    <a href="https://github.com/Jessica-ovabor/JessiPress">View Demo</a>
     ·
-    <a href="https://github.com/Jessica-ovabor/Jessium/issues">Report Bug</a>
+    <a href="https://github.com/Jessica-ovabor/JessiPress/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Jessica-ovabor/Jessium/issues">Request Feature</a>
+    <a href="https://github.com/Jessica-ovabor/JessiPress/issues">Request Feature</a>
   </p>
 </div>
 
