@@ -10,7 +10,7 @@
 
   </a>
 
-<h3 align="center">Jessium</h3>
+<h3 align="center">JessiPress</h3>
 
   <p align="center">
          project_description
