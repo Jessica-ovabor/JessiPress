@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Jessium is a website that allows users to share their thoughts and experiences on a particular topic through blog posts. The website is built using HTML, CSS, Bootstrap, Python, SQLite, JavaScript, Free frontend templates, and the Flask framework on Visual Studio Code.
+JessiPress is a website that allows users to share their thoughts and experiences on a particular topic through blog posts. The website is built using HTML, CSS, Bootstrap, Python, SQLite, JavaScript, Free frontend templates, and the Flask framework on Visual Studio Code.
 
 Users can read other users' posts, create their own posts, edit their own posts, and delete their own posts. The website provides a static home page to new users to give them a glimpse of what to expect after signing up or registering.
 
